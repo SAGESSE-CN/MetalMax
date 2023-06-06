@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "fill": [
+      3
+    ],
+    "north": {
+      "tiling": [
+        1,
+        0
+      ]
+    },
+    "east": {
+      "tiling": [
+        1,
+        0
+      ]
+    },
+    "bgm": 12
+  }
+}

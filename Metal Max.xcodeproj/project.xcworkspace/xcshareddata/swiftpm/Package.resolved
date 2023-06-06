@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "jsondecoderex",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SAGESSE-CN/JSONDecoderEx",
+      "state" : {
+        "revision" : "f06d6e2420c128d71cef8a3a66e3e8635abdb7a7",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
